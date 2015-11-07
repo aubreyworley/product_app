@@ -1,0 +1,17 @@
+{
+    "ResourceCollection" : [
+        {
+            "title": "SAPUI5 Explored",
+            "description": "A site that demonstrates many SAPUI5 controls and provides working examples along with the code used to create them.",
+            "url": "https://sapui5.hana.ondemand.com/sdk/explored.html"
+            
+        },
+        {
+            "title": "SAPUI5 Demo Kit",
+            "description": "A site that includes demos, documentation and much more",
+            "url": "https://sapui5.hana.ondemand.com/sdk/#content/Overview.html"
+        }
+        
+    ]
+}
+

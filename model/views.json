@@ -1,0 +1,16 @@
+{
+  "ViewsCollection" : [
+    {
+      "icon" : "play",
+      "number" : "1",
+      "title" : "Resources",
+      "info" : "Resources"
+    },
+    {
+      "icon" : "Multi-select",
+      "number" : "2",
+      "title" : "Product Lists",
+      "info" : "Lists"
+    }
+  ]
+}
